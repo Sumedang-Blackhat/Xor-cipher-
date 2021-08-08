@@ -1,2 +1,2 @@
 # Xor-cipher-
-Sekedar Singgah 
+Sumedang Blackhat 
